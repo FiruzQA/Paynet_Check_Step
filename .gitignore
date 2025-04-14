@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Secrets and config
+.env
+*.keystore
+
+# Custom project folders
+data/data.py
+generator/generator.py
