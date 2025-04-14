@@ -3,11 +3,30 @@ __pycache__/
 *.py[cod]
 *.so
 
+<<<<<<< HEAD
+=======
+# Virtual environments
+env/
+.venv/
+
+>>>>>>> origin/main
 # Logs and temp files
 *.log
 *.tmp
 *.swp
 
+<<<<<<< HEAD
+=======
+# Appium-related
+*.apk
+output/
+screenshots/
+
+# IDE/editor files
+.idea/
+.vscode/
+
+>>>>>>> origin/main
 # Secrets and config
 .env
 *.keystore
